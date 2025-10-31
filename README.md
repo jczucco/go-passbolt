@@ -21,8 +21,11 @@ PR's are welcome. But be gentle: if it's something bigger or fundamental: please
 Disclaimer: This project is community driven and not associated with Passbolt SA
 
 # Install
-
-`go get github.com/passbolt/go-passbolt`
+`
+$ mkdir my-passbolt-app
+$ cd my-passbolt-app
+$ go mod init my-passbolt-app
+$ go get github.com/passbolt/go-passbolt`
 
 # Examples
 
