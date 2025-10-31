@@ -22,7 +22,7 @@ Disclaimer: This project is community driven and not associated with Passbolt SA
 
 # Install
 
-`go get github.com/passbolt/go-passbolt`
+`go install github.com/passbolt/go-passbolt-cli@latest`
 
 # Examples
 
